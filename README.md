@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Arial', sans-serif; padding: 20px;">
-  <img src="./Assets/welcome.gif" alt="Welcome" style="max-width: 100%; height: auto;">
+  <img src="./Assets/welcome.gif" alt="Welcome" width="1000" height="200">
   
   <p>
 
