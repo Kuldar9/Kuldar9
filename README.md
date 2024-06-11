@@ -45,7 +45,7 @@
 
   <h1>Let's Connect!</h1>
 
-  <p>📧 Hit me up at <a href="https://github.com/Kuldar9/Kuldar9/discussions/1" style="color: #3498db; text-decoration: none;">discussions</a>!</p>
+  <p>📧 Hit me up at <a href="https://github.com/Kuldar9/Kuldar9/discussions/1" style="color: #3498db; text-decoration: none;">discussions</a>, for something more casual at <a href="https://github.com/Kuldar9/Kuldar9/discussions/2" style="color: #3498db; text-decoration: none;">general</a> </p>
 
   <p>🌐 Explore more of my tech tales and DIY delights on my <a href="https://kuldar9.github.io/" style="color: #3498db; text-decoration: none;">Website</a>. Join the adventure!</p>
 
