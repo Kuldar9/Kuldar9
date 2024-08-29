@@ -13,23 +13,20 @@
   <h2>💻 Software Developer</h2>
   <p>Crafting code to build solutions that make life easier and more enjoyable. From simple scripts to complex applications, I'm all in.</p>
 
-  <h2>🔊 Sound Engineer</h2>
-  <p>Transforming audio landscapes one beat at a time. Check out my custom car audio setups!</p>
-
-  <h2>🚗 Car Audio Guru</h2>
-  <p>Cruising through the intersection of horsepower and sound waves. Buckle up for an auditory adventure!</p>
-
   <h2>🤖 Automation Wizard</h2>
   <p>Wave your wand and watch the magic of automation unfold. From smart switches to USB sorcery, I've got tricks up my sleeve!</p>
+
+  <h2>💡 Tech Explorer</h2>
+  <p>Embarking on a journey of discovery, fueled by curiosity and a love for tinkering. Coding, experimenting, and creating the future, one project at a time.</p>
+  
+  <h2>🔊 Sound Engineer</h2>
+  <p>Transforming audio landscapes one beat at a time. Check out my custom car audio setups!</p>
 
   <h2>🎬 Content Creator</h2>
   <p>Delving into the world of content creation and video editing, crafting visual experiences that captivate and inspire.</p>
 
   <h2>💼 Investment Explorer</h2>
   <p>Navigating the financial frontier with savvy strategies and calculated risks. Let's turn dreams into dividends!</p>
-
-  <h2>💡 Tech Explorer</h2>
-  <p>Embarking on a journey of discovery, fueled by curiosity and a love for tinkering. Coding, experimenting, and creating the future, one project at a time.</p>
 
 
 
