@@ -4,7 +4,7 @@
   <p>
 
   </p>
-  <img src="./Assets/About.me.png" alt="About me" width="200" height="50">
+
   <hr style="border-color: #ffffff;">
   
   <p>I'm <a href="https://github.com/Kuldar" text-decoration: none;">Kuldar</a>, a tech enthusiast and junior software developer with a passion for DIY projects, automation, content creation, and all things innovative. Welcome to my GitHub playground!</p>
