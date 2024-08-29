@@ -18,12 +18,12 @@
 
   <h2>💡 Tech Explorer</h2>
   <p>Embarking on a journey of discovery, fueled by curiosity and a love for tinkering. Coding, experimenting, and creating the future, one project at a time.</p>
-  
-  <h2>🔊 Sound Engineer</h2>
-  <p>Transforming audio landscapes one beat at a time. Check out my custom car audio setups!</p>
 
   <h2>🎬 Content Creator</h2>
   <p>Delving into the world of content creation and video editing, crafting visual experiences that captivate and inspire.</p>
+  
+  <h2>🔊 Sound Engineer</h2>
+  <p>Transforming audio landscapes one beat at a time. Check out my custom car audio setups!</p>
 
   <h2>💼 Investment Explorer</h2>
   <p>Navigating the financial frontier with savvy strategies and calculated risks. Let's turn dreams into dividends!</p>
