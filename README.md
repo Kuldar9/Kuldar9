@@ -2,7 +2,7 @@
 
   
   <p>
-      <img src="Assets/Welcome.png" alt="Welcome Image" />
+      <img src="./Assets/Welcome.png" alt="Welcome Image" />
   </p>
 
   <hr style="border-color: #ffffff;">
