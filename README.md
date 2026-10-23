@@ -25,28 +25,28 @@
 
   <hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
 
-  <!-- Systems & Architecture Section -->
+  <!-- Systems & Architecture Section (Addresses Private Repos) -->
   <h2 align="left" style="color: #58a6ff; margin-bottom: 15px;">🧩 Complex Systems & Architecture Highlights</h2>
   <blockquote align="left" style="border-left: 4px solid #58a6ff; padding-left: 15px; color: #8b949e; font-style: italic; margin-bottom: 20px;">
     Note: Primary production codebases (TalTech research & enterprise integrations) reside in private organizational repositories. Architecture breakdowns and functional summaries are highlighted below.
   </blockquote>
 
   <div align="left" style="display: inline-block; text-align: left; width: 100%; line-height: 1.6;">
+    
+    <h3 style="color: #f0f6fc; margin-bottom: 5px;">⚡ Automated AI Security & Penetration Pipeline</h3>
+    <p style="margin-top: 0; color: #8b949e;">
+      Designed an automated testing pipeline using LLMs in a sandboxed development environment to simulate penetration testing and solve LMS quizzes, benchmarking curriculum resilience against AI solvers.
+    </p>
 
-<h3 style="color: #f0f6fc; margin-bottom: 5px;">⚡ Automated AI Security & Penetration Pipeline</h3>
-<p style="margin-top: 0; color: #8b949e;">
-Designed an automated testing pipeline using LLMs in a sandboxed development environment to simulate penetration testing and solve LMS quizzes, benchmarking curriculum resilience against AI solvers.
-</p>
+    <h3 style="color: #f0f6fc; margin-bottom: 5px;">📦 EdTech LTI 1.3 Course Archive Ingestion Engine</h3>
+    <p style="margin-top: 0; color: #8b949e;">
+      Architected a full-stack system leveraging Vue.js/React and LTI 1.3 protocols to ingest, unpack, and parse complex Moodle course archive files (<code>.mbz</code>) for automated resilience testing.
+    </p>
 
-<h3 style="color: #f0f6fc; margin-bottom: 5px;">📦 EdTech LTI 1.3 Course Archive Ingestion Engine</h3>
-<p style="margin-top: 0; color: #8b949e;">
-Architected a full-stack system leveraging Vue.js/React and LTI 1.3 protocols to ingest, unpack, and parse complex Moodle course archive files (<code>.mbz</code>) for automated resilience testing.
-</p>
-
-<h3 style="color: #f0f6fc; margin-bottom: 5px;">🐳 Containerized Microservices & Automated Resilience Testing (ART)</h3>
-<p style="margin-top: 0; color: #8b949e;">
-Engineered modular, Dockerized microservices evaluating operational, pedagogical, and security challenges across digital learning management systems.
-</p>
+    <h3 style="color: #f0f6fc; margin-bottom: 5px;">🐳 Containerized Microservices & Automated Resilience Testing (ART)</h3>
+    <p style="margin-top: 0; color: #8b949e;">
+      Engineered modular, Dockerized microservices evaluating operational, pedagogical, and security challenges across digital learning management systems.
+    </p>
 
   </div>
 
