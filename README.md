@@ -33,20 +33,14 @@
 
   <div align="left" style="display: inline-block; text-align: left; width: 100%; line-height: 1.6;">
     
-    <h3 style="color: #f0f6fc; margin-bottom: 5px;">⚡ Automated AI Security & Penetration Pipeline</h3>
-    <p style="margin-top: 0; color: #8b949e;">
-      Designed an automated testing pipeline using LLMs in a sandboxed development environment to simulate penetration testing and solve LMS quizzes, benchmarking curriculum resilience against AI solvers.
-    </p>
+    🔹 **Automated AI Security & Penetration Pipeline**
+    Designed an automated testing pipeline using LLMs in a sandboxed development environment to simulate penetration testing and solve LMS quizzes, benchmarking curriculum resilience against AI solvers.
 
-    <h3 style="color: #f0f6fc; margin-bottom: 5px;">📦 EdTech LTI 1.3 Course Archive Ingestion Engine</h3>
-    <p style="margin-top: 0; color: #8b949e;">
-      Architected a full-stack system leveraging Vue.js/React and LTI 1.3 protocols to ingest, unpack, and parse complex Moodle course archive files (<code>.mbz</code>) for automated resilience testing.
-    </p>
+    🔹 **EdTech LTI 1.3 Course Archive Ingestion Engine**
+    Architected a full-stack system leveraging Vue.js/React and LTI 1.3 protocols to ingest, unpack, and parse complex Moodle course archive files (`.mbz`) for automated resilience testing.
 
-    <h3 style="color: #f0f6fc; margin-bottom: 5px;">🐳 Containerized Microservices & Automated Resilience Testing (ART)</h3>
-    <p style="margin-top: 0; color: #8b949e;">
-      Engineered modular, Dockerized microservices evaluating operational, pedagogical, and security challenges across digital learning management systems.
-    </p>
+    🔹 **Containerized Microservices & Automated Resilience Testing (ART)**
+    Engineered modular, Dockerized microservices evaluating operational, pedagogical, and security challenges across digital learning management systems.
 
   </div>
 
