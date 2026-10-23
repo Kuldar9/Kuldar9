@@ -1,50 +1,82 @@
-<div align="center" style="font-family: 'Arial', sans-serif; padding: 20px;">
+<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto;">
 
-  
+  <!-- Welcome Banner -->
   <p>
-      <img src="./Assets/Welcome.png" alt="Welcome Image" />
+      <img src="./Assets/Welcome.png" alt="Welcome Image" width="100%" style="border-radius: 8px;" />
   </p>
 
-  <hr style="border-color: #ffffff;">
+  <hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
+
+  <!-- Intro Bio -->
+  <p style="font-size: 16px; line-height: 1.6;">
+    Hi, I'm <a href="https://github.com/Kuldar" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Kuldar</a> — Full-Stack Software Engineer specializing in <b>AI Microservices</b>, <b>EdTech Solutions</b>, and <b>Automated Security Pipelines</b>.
+  </p>
   
-  <p>I'm <a href="https://github.com/Kuldar" text-decoration: none;">Kuldar</a>, a tech enthusiast and junior software developer with a passion for DIY projects, automation, content creation, and all things innovative. Welcome to my GitHub playground!</p>
-  <hr style="border-color: #ffffff;">
+  <hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
 
-  <h2>💻 Software Developer</h2>
-  <p>Crafting code to build solutions that make life easier and more enjoyable. From simple scripts to complex applications, I'm all in.</p>
+  <!-- Tech Stack Section -->
+  <h2 align="left" style="color: #58a6ff; margin-bottom: 15px;">🛠️ Tech Stack & Ecosystem</h2>
+  <div align="left" style="display: inline-block; text-align: left; width: 100%; color: #8b949e; line-height: 1.6;">
+    <p><b>Languages:</b> TypeScript / JavaScript, Python, HTML5/CSS3, SQL</p>
+    <p><b>Frontend:</b> Vue.js, React, Vite.js, Modern Responsive UI Design</p>
+    <p><b>Backend & AI:</b> Node.js, FastAPI / Python REST APIs, LTI 1.3 Standards, LLM Orchestration</p>
+    <p><b>DevOps & Tools:</b> Docker, Linux System Administration, Git, CI/CD, Automated Testing (ART)</p>
+  </div>
 
-  <h2>🤖 Automation Wizard</h2>
-  <p>Wave your wand and watch the magic of automation unfold. From smart switches to USB sorcery, I've got tricks up my sleeve!</p>
+  <hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
 
-  <h2>💡 Tech Explorer</h2>
-  <p>Embarking on a journey of discovery, fueled by curiosity and a love for tinkering. Coding, experimenting, and creating the future, one project at a time.</p>
+  <!-- Systems & Architecture Section (Addresses Private Repos) -->
+  <h2 align="left" style="color: #58a6ff; margin-bottom: 15px;">🧩 Complex Systems & Architecture Highlights</h2>
+  <blockquote align="left" style="border-left: 4px solid #58a6ff; padding-left: 15px; color: #8b949e; font-style: italic; margin-bottom: 20px;">
+    Note: Primary production codebases (TalTech research & enterprise integrations) reside in private organizational repositories. Architecture breakdowns and functional summaries are highlighted below.
+  </blockquote>
 
-  <h2>🎬 Content Creator</h2>
-  <p>Delving into the world of content creation and video editing, crafting visual experiences that captivate and inspire.</p>
-  
-  <h2>🔊 Sound Engineer</h2>
-  <p>Transforming audio landscapes one beat at a time. Check out my custom car audio setups!</p>
+  <div align="left" style="display: inline-block; text-align: left; width: 100%; line-height: 1.6;">
+    
+    <h3 style="color: #f0f6fc; margin-bottom: 5px;">⚡ Automated AI Security & Penetration Pipeline</h3>
+    <p style="margin-top: 0; color: #8b949e;">
+      Designed an automated testing pipeline using LLMs in a sandboxed development environment to simulate penetration testing and solve LMS quizzes, benchmarking curriculum resilience against AI solvers.
+    </p>
 
-  <h2>💼 Investment Explorer</h2>
-  <p>Navigating the financial frontier with savvy strategies and calculated risks. Let's turn dreams into dividends!</p>
+    <h3 style="color: #f0f6fc; margin-bottom: 5px;">📦 EdTech LTI 1.3 Course Archive Ingestion Engine</h3>
+    <p style="margin-top: 0; color: #8b949e;">
+      Architected a full-stack system leveraging Vue.js/React and LTI 1.3 protocols to ingest, unpack, and parse complex Moodle course archive files (<code>.mbz</code>) for automated resilience testing.
+    </p>
 
+    <h3 style="color: #f0f6fc; margin-bottom: 5px;">🐳 Containerized Microservices & Automated Resilience Testing (ART)</h3>
+    <p style="margin-top: 0; color: #8b949e;">
+      Engineered modular, Dockerized microservices evaluating operational, pedagogical, and security challenges across digital learning management systems.
+    </p>
 
+  </div>
 
-  <h1>Recent Projects</h1>
+  <hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
 
-  <p>🔧 Sound Revolution: Revamping car audio with custom setups and killer beats. Let the bass drop!</p>
-  <p>🤖 Automation Evolution: Transforming mundane tasks into automated masterpieces. Say goodbye to manual labor!</p>
-  <p>💻 Coding Creations: Building software solutions, experimenting with new technologies, and pushing the boundaries of what I can do.</p>
-  <p>🎥 Content Creation: Exploring the art of visual storytelling through content creation and video editing. Stay tuned for future projects!</p>
-  <p>📈 Investment Adventures: Riding the highs and lows of the market, always seeking the next big opportunity.</p>
+  <!-- Code Philosophy -->
+  <h2 align="left" style="color: #58a6ff; margin-bottom: 15px;">📐 Engineering Philosophy & Clean Code</h2>
+  <div align="left" style="display: inline-block; text-align: left; width: 100%; color: #8b949e; line-height: 1.6;">
+    <p>🔹 <b>Maintainable Architecture:</b> Emphasis on strict typing, modular separation of concerns, and reusable microservices.</p>
+    <p>🔹 <b>Security & Standards:</b> Deep integration with industry protocols (LTI 1.3) and sandboxed LLM execution.</p>
+    <p>🔹 <b>Automated Quality:</b> Test-driven evaluation pipelines to measure operational reliability and systemic resilience.</p>
+  </div>
 
+  <hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
 
+  <!-- Connect Section -->
+  <h2>Let's Connect</h2>
 
-  <h1>Let's Connect!</h1>
+  <p style="font-size: 15px;">
+    📧 Open to technical discussions via <a href="https://github.com/Kuldar9/Kuldar9/discussions/1" style="color: #58a6ff; text-decoration: none; font-weight: 600;">Discussions</a> or <a href="https://github.com/Kuldar9/Kuldar9/discussions/2" style="color: #58a6ff; text-decoration: none; font-weight: 600;">General Thread</a>.
+  </p>
 
-  <p>📧 Hit me up at <a href="https://github.com/Kuldar9/Kuldar9/discussions/1" style="color: #3498db; text-decoration: none;">discussions</a>, for something more casual at <a href="https://github.com/Kuldar9/Kuldar9/discussions/2" style="color: #3498db; text-decoration: none;">general</a> </p>
+  <p style="font-size: 15px;">
+    🌐 Portfolio & Projects: <a href="https://kuldar9.github.io/" style="color: #58a6ff; text-decoration: none; font-weight: 600;">kuldar9.github.io</a>
+  </p>
 
-  <p>🌐 Explore more of my tech tales and DIY delights on my <a href="https://kuldar9.github.io/" style="color: #3498db; text-decoration: none;">Website</a>. Join the adventure!</p>
+  <br>
 
-  <img src="./Assets/Under-construction.gif" alt="Under Construction" style="max-width: 100%; height: auto;">
+  <!-- Under Construction GIF -->
+  <p>
+      <img src="./Assets/Under-construction.gif" alt="Under Construction" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  </p>
 </div>
